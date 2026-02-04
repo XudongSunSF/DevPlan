@@ -1,5 +1,47 @@
 # DevPlan
+
+
+
 Development plan action items 
+
+15-Day Action Plan
+
+Objective / Deliverable
+	•	Demonstrate improved problem-solving efficiency by clearly framing issues, avoiding repeated iterations, and progressing support and project work toward resolution in a timely manner.
+
+Measures
+	•	Reduced back-and-forth on issues; clearer problem statements and next steps observed.
+
+⸻
+
+30-Day Action Plan
+
+Objective / Deliverable
+	•	Consistently solve problems efficiently across both project and support work, with improved quality and fewer rework cycles.
+
+Measures
+	•	Issues converge faster; fixes require fewer follow-up corrections and clarifications.
+
+⸻
+
+45-Day Action Plan
+
+Objective / Deliverable
+	•	Reliably handle complex problems with minimal guidance by applying sound judgment, proactive analysis, and strong solution quality.
+
+Measures
+	•	Minimal rework; escalations are concise, timely, and actionable.
+
+⸻
+
+60-Day Action Plan
+
+Objective / Deliverable
+	•	Operate as a dependable contributor who independently drives problems to high-quality resolution with predictable delivery and ownership.
+
+Measures
+	•	Consistent quality and timeliness across deliverables; manager and peer confidence in independent execution.
+
 
 15-Day Action Plan (Updated)
 
